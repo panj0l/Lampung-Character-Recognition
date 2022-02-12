@@ -1,2 +1,2 @@
 # Lampung-Character-Recogniton
-Lampung character recognition using CNN. Data was obtained from document manuscripts and handwriting. I compare two CNN architectures namely Densenet and Alexnet architectures
+Lampung character recognition using CNN. The data was obtained from documents and handwritten scripts. So that there were four classes of groups, namely parent characters, parent characters with the above subscripts, parent characters with sub-letters on the side, and parent characters with sub-letters on the bottom. I compare two CNN architectures namely Densenet and Alexnet architectures
